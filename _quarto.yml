@@ -4,7 +4,7 @@ project:
 website:
   title: "Mario"
   search: true
-  site-url: https://aayushmnit.github.io/mario/
+  site-url: https://aayushmnit.github.io/quarto_example/
   repo-url: https://github.com/aayushmnit/quarto_example
   navbar:
     left:
