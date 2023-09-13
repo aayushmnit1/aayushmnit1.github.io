@@ -1,1 +1,1 @@
-Sitemap: https://aayushmnit.github.io/quarto_example/sitemap.xml
+Sitemap: https://aayushmnit1.github.io/sitemap.xml

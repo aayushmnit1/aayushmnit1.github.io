@@ -1,26 +1,26 @@
 ---
-title: "Mario"
+title: "Aayush Agrawal"
 image: headshot.png
 about:
-  image-width: 12em
+  image-width: 10em
   image-shape: round
   template: solana
   links:
     - icon: github
       text: Github
-      href: https://github.com/
+      href: https://github.com/aayushmnit
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/
+      href: https://www.linkedin.com/in/aayushmnit
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/
+      href: https://twitter.com/aayushmnit
 
 comments: false
 page-layout: full
 ---
 
-Hi, I’m Mario, the most famous video game character of all time. I’m an Italian plumber who lives in the Mushroom Kingdom with my brother Luigi. I love to go on adventures and rescue Princess Peach from the evil Bowser, who always tries to take over the world. I have many friends, such as Yoshi, Toad, and Donkey Kong, who help me along the way. I can jump really high and use power-ups like mushrooms, fire flowers, and stars to gain special abilities. I also enjoy playing sports, racing karts, and partying with my pals. I’m always ready for a challenge and I never give up. That’s why people say I’m super!
+I’m an experienced Data Scientist with specialized skills in machine learning-based solutions. I enjoy staying on top of cutting-edge data technologies, including big data platforms, deep learning, optimization methods, and business analytics. My current work involves building data-driven products to enable smarter recommendations for Microsoft Partners, M365 service administrators and end-users to ensure the best usage of M365 services. Before that, I have experience working in various verticals like agricultural technology, pharmaceuticals, retail, e-commerce, and ride-sharing business model.
 
 ::::{.panel-tabset}
 
@@ -28,7 +28,7 @@ Hi, I’m Mario, the most famous video game character of all time. I’m an Ital
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-**Nintendo, Redmond, WA, USA**  
+**Microsoft, Redmond, WA, USA**  
 *Plumber*
 :::
 ::: {.text-end}

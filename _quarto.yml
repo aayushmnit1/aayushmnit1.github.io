@@ -2,10 +2,10 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Mario"
+  title: "Aayush Agrawal"
   search: true
-  site-url: https://aayushmnit.github.io/quarto_example/
-  repo-url: https://github.com/aayushmnit/quarto_example
+  site-url: https://aayushmnit1.github.io/
+  repo-url: https://github.com/aayushmnit1/aayushmnit1.github.io
   navbar:
     left:
       - icon: house
