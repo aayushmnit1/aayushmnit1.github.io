@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mario</title>
+<link>https://aayushmnit.com/mario/blog.html</link>
+<atom:link href="https://aayushmnit.com/mario/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Tue, 12 Sep 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sample Blog 1</title>
+  <dc:creator>Aayush Agrawal</dc:creator>
+  <link>https://aayushmnit.com/mario/posts/2023-09-12_blog1/demo.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="colors" class="level2">
+<h2 class="anchored" data-anchor-id="colors">Colors</h2>
+<ul>
+<li>Red</li>
+<li>Blue</li>
+<li>Green</li>
+</ul>
+</section>
+<section id="equations" class="level1">
+<h1>Equations</h1>
+<p><img src="https://latex.codecogs.com/png.latex?E%20=%20mc%5E%7B2%7D"></p>
+<section id="cross-referencing" class="level2">
+<h2 class="anchored" data-anchor-id="cross-referencing">Cross Referencing</h2>
+<section id="overview" class="level3">
+<h3 class="anchored" data-anchor-id="overview">Overview</h3>
+<p>See Figure&nbsp;1 in Section&nbsp;1.1.2 for a demonstration of a simple plot.</p>
+<p>See Equation&nbsp;1 to better understand standard deviation.</p>
+</section>
+<section id="sec-plot" class="level3">
+<h3 class="anchored" data-anchor-id="sec-plot">PLOT</h3>
+<div class="cell" data-execution_count="7">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> matplotlib.pyplot <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> plt</span>
+<span id="cb1-2">plt.plot([<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">23</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">3</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span>])</span>
+<span id="cb1-3">plt.show()</span></code></pre></div>
+</details>
+<div class="cell-output cell-output-display">
+<div id="fig-sample" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://aayushmnit.com/mario/posts/2023-09-12_blog1/demo_files/figure-html/fig-sample-output-1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Simple Plot</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="9">
+<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> matplotlib.pyplot <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> plt</span>
+<span id="cb2-2">plt.plot([<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">23</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">3</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span>])</span>
+<span id="cb2-3">plt.show()</span></code></pre></div>
+<div class="cell-output cell-output-display">
+<div id="fig-sample2" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://aayushmnit.com/mario/posts/2023-09-12_blog1/demo_files/figure-html/fig-sample2-output-1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Simple Plot 2</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="sec-equation" class="level3">
+<h3 class="anchored" data-anchor-id="sec-equation">Equation</h3>
+<p><span id="eq-stddev"><img src="https://latex.codecogs.com/png.latex?%0As%20=%20%5Csqrt%7B%5Cfrac%7B1%7D%7BN-1%7D%20%5Csum_%7Bi=1%7D%5EN%20(x_i%20-%20%5Coverline%7Bx%7D)%5E2%7D%0A%5Ctag%7B1%7D"></span></p>
+</section>
+</section>
+<section id="callouts" class="level2">
+<h2 class="anchored" data-anchor-id="callouts">Callouts</h2>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Note that this is a callout. There are five types of callouts - <code>note</code>, <code>tip</code>, <code>warning</code>, <code>caution</code> and <code>important</code>.</p>
+</div>
+</div>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Plotting</category>
+  <category>Machine learning</category>
+  <guid>https://aayushmnit.com/mario/posts/2023-09-12_blog1/demo.html</guid>
+  <pubDate>Tue, 12 Sep 2023 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

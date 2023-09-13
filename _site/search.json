@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "posts/2023-09-12_blog1/demo.html",
+    "href": "posts/2023-09-12_blog1/demo.html",
+    "title": "Sample Blog 1",
+    "section": "",
+    "text": "Red\nBlue\nGreen"
+  },
+  {
+    "objectID": "posts/2023-09-12_blog1/demo.html#colors",
+    "href": "posts/2023-09-12_blog1/demo.html#colors",
+    "title": "Sample Blog 1",
+    "section": "",
+    "text": "Red\nBlue\nGreen"
+  },
+  {
+    "objectID": "posts/2023-09-12_blog1/demo.html#cross-referencing",
+    "href": "posts/2023-09-12_blog1/demo.html#cross-referencing",
+    "title": "Sample Blog 1",
+    "section": "Cross Referencing",
+    "text": "Cross Referencing\n\nOverview\nSee Figure 1 in Section 1.1.2 for a demonstration of a simple plot.\nSee Equation 1 to better understand standard deviation.\n\n\nPLOT\n\n\nCode\nimport matplotlib.pyplot as plt\nplt.plot([1,23,3,4])\nplt.show()\n\n\n\n\n\nFigure 1: Simple Plot\n\n\n\n\n\nimport matplotlib.pyplot as plt\nplt.plot([1,23,3,4])\nplt.show()\n\n\n\n\nFigure 2: Simple Plot 2\n\n\n\n\n\n\nEquation\n\\[\ns = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (x_i - \\overline{x})^2}\n\\tag{1}\\]"
+  },
+  {
+    "objectID": "posts/2023-09-12_blog1/demo.html#callouts",
+    "href": "posts/2023-09-12_blog1/demo.html#callouts",
+    "title": "Sample Blog 1",
+    "section": "Callouts",
+    "text": "Callouts\n\n\n\n\n\n\nImportant\n\n\n\n\n\nNote that this is a callout. There are five types of callouts - note, tip, warning, caution and important."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nSample Blog 1\n\n\n1 min\n\n\n\nPlotting\n\n\nMachine learning\n\n\n\n\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Mario",
+    "section": "",
+    "text": "Hi, I’m Mario, the most famous video game character of all time. I’m an Italian plumber who lives in the Mushroom Kingdom with my brother Luigi. I love to go on adventures and rescue Princess Peach from the evil Bowser, who always tries to take over the world. I have many friends, such as Yoshi, Toad, and Donkey Kong, who help me along the way. I can jump really high and use power-ups like mushrooms, fire flowers, and stars to gain special abilities. I also enjoy playing sports, racing karts, and partying with my pals. I’m always ready for a challenge and I never give up. That’s why people say I’m super!"
+  },
+  {
+    "objectID": "about.html#technical",
+    "href": "about.html#technical",
+    "title": "Mario",
+    "section": "Technical",
+    "text": "Technical\n\n\nShooting bad guys\nCertificate\n\n\nMay, 1985\n\n\n\n\nMaster jumper\nCertificate\n\n\nMay, 1981"
+  },
+  {
+    "objectID": "about.html#non-technical",
+    "href": "about.html#non-technical",
+    "title": "Mario",
+    "section": "Non-Technical",
+    "text": "Non-Technical\n\n\nMaster jumper\nCertificate\n\n\nMay, 1981"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Example Website for Mario",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#latest-blogs",
+    "href": "index.html#latest-blogs",
+    "title": "Example Website for Mario",
+    "section": "Latest Blogs",
+    "text": "Latest Blogs\nClick here to check out more blogs."
+  }
+]

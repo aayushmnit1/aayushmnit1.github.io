@@ -1,0 +1,118 @@
+---
+title: "Mario"
+image: headshot.png
+about:
+  image-width: 12em
+  image-shape: round
+  template: solana
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/
+
+comments: false
+page-layout: full
+---
+
+Hi, I’m Mario, the most famous video game character of all time. I’m an Italian plumber who lives in the Mushroom Kingdom with my brother Luigi. I love to go on adventures and rescue Princess Peach from the evil Bowser, who always tries to take over the world. I have many friends, such as Yoshi, Toad, and Donkey Kong, who help me along the way. I can jump really high and use power-ups like mushrooms, fire flowers, and stars to gain special abilities. I also enjoy playing sports, racing karts, and partying with my pals. I’m always ready for a challenge and I never give up. That’s why people say I’m super!
+
+::::{.panel-tabset}
+
+# Experience
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Nintendo, Redmond, WA, USA**  
+*Plumber*
+:::
+::: {.text-end}
+Start Month Year - Present
+:::
+:::
+- Rescue Princess Peach from Bowser’s castle and restore peace to the Mushroom Kingdom
+- Collect coins, stars, and power-ups to enhance abilities and unlock new levels
+- Jump on enemies, break bricks, and slide down pipes to navigate various terrains
+- Team up with Luigi, Yoshi, Toad, and other allies to overcome obstacles and defeat bosses
+- Participate in various sports, kart racing, and party games with friends and rivals
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Donkey Kong, USA**  
+*Carpenter*
+:::
+::: {.text-end}
+Start Month Year - End Month Year
+:::
+:::
+- Jumpman the carpenter (later renamed Mario)
+- Rescued Pauline from Donkey Kong, a giant gorilla who kidnapped her and escaped into a construction zone1
+- Braved four levels of obstacles, such as barrels, fireballs, springs, and rivets, using skills such as jumping, climbing, and hammering1
+- Demonstrated courage, agility, and perseverance in the face of danger
+- Became the first video game character to use graphics as a means of characterization and to have a backstory
+
+# Education
+
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Nintendo School of Management, University of Nintendo, Redmond, WA, USA**  
+*Master of Science in Plumbing* | **GPA:** 4/4
+:::
+::: {.text-end}
+May, 1985
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Donkey Kong University, Redmond, USA**  
+*Bachelor of Technology in Carpentership* | **GPA:** 8.35/10
+:::
+::: {.text-end}
+May, 1981
+:::
+:::
+
+# Certifications
+
+## Technical
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Shooting bad guys**  
+[Certificate](https://mario.nintendo.com/)
+:::
+::: {.text-end}
+May, 1985
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Master jumper**  
+[Certificate](https://mario.nintendo.com/)
+:::
+::: {.text-end}
+May, 1981
+:::
+:::
+
+## Non-Technical
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Master jumper**  
+[Certificate](https://mario.nintendo.com/)
+:::
+::: {.text-end}
+May, 1981
+:::
+:::
+
+::::

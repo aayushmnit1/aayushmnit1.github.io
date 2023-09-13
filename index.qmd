@@ -1,0 +1,18 @@
+---
+title: "Example Website for Mario"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+:::::{.grid}
+::::{.g-col-12 .g-col-md-12}
+## Latest Blogs
+Click [here](blog.qmd) to check out more blogs.
+
+:::{#landing-posts}
+:::
+::::
+:::::
